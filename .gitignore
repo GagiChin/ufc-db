@@ -1,0 +1,12 @@
+# Raw data files (never commit)
+data/
+*.csv
+*.zip
+
+# MySQL exports / dumps (optional safety)
+*.sql.bak
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
